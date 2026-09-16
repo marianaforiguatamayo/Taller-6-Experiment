@@ -6,7 +6,7 @@ Repositorio del equipo consultor para el encargo de la ONG interesada en la cons
 
 | Integrante | Rol |
 |---|---|
-| _David Pascagaza Rodriguez_ | _líder de proyecto_ |
+| _David Pascagaza Rodriguez_ | _Líder de proyecto_ |
 | _Sara Rodriguez Moreno_ | _Analista cuantitativo_ |
 | _Mariana Forigua Tamayo_ | _Especialista en visualización y comunicación_ |
 | _Santiago Cortes Gomez_ | _Especialista en reproducibilidad y datos_ |
@@ -55,19 +55,19 @@ TALLER_6_ACUEDUCTOS_VEREDALES/
 
 > Cada integrante debe registrar entre 2 y 4 contribuciones concretas vinculadas a su rol, señalando el do-file, tabla, figura o sección donde se pueden verificar.
 
-**_Nombre 1 — Rol_**
+**_David Pascagaza Rodriguez — Líder de proyecto _**
 - Contribución 1 → ver `Script/taller6_bienes_publicos.do`, línea(s) __
 - Contribución 2 → ver `Informe/informe_taller6.docx`, sección __
 
-**_Nombre 2 — Rol_**
+**_Sara Rodriguez Moreno — Analista cuantitativo_**
 - Contribución 1 → ver ...
 - Contribución 2 → ver ...
 
-**_Nombre 3 — Rol_**
+**_Mariana Forigua Tamayo — Especialista en visualización y comunicación_**
 - Contribución 1 → ver ...
 - Contribución 2 → ver ...
 
-**_Nombre 4 — Rol_**
+**_Santiago Cortes Gomez — Especialista en reproducibilidad y datos_**
 - Contribución 1 → ver ...
 - Contribución 2 → ver ...
 
