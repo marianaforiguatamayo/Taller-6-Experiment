@@ -55,7 +55,7 @@ TALLER_6_ACUEDUCTOS_VEREDALES/
 
 > Cada integrante debe registrar entre 2 y 4 contribuciones concretas vinculadas a su rol, señalando el do-file, tabla, figura o sección donde se pueden verificar.
 
-**_David Pascagaza Rodriguez — Líder de proyecto _**
+**_David Pascagaza Rodriguez — Líder de proyecto_**
 - Contribución 1 → ver `Script/taller6_bienes_publicos.do`, línea(s) __
 - Contribución 2 → ver `Informe/informe_taller6.docx`, sección __
 
