@@ -6,10 +6,10 @@ Repositorio del equipo consultor para el encargo de la ONG interesada en la cons
 
 | Integrante | Rol |
 |---|---|
-| _David Pascagaza Rodriguez_ | _Rol (ej. líder de proyecto)_ |
-| _Sara Rodriguez Moreno_ | _Rol (ej. analista cuantitativo — Stata)_ |
-| _Mariana Forigua Tamayo_ | _Rol (ej. especialista en visualización y comunicación)_ |
-| _Santiago Cortes Gomez_ | _Rol (ej. especialista en reproducibilidad y datos)_ |
+| _David Pascagaza Rodriguez_ | _líder de proyecto_ |
+| _Sara Rodriguez Moreno_ | _Analista cuantitativo_ |
+| _Mariana Forigua Tamayo_ | _Especialista en visualización y comunicación_ |
+| _Santiago Cortes Gomez_ | _Especialista en reproducibilidad y datos_ |
 
 > Los roles definen una responsabilidad principal, no dividen el taller en cuatro partes. Todos los productos son responsabilidad conjunta y cualquier integrante puede ser seleccionado como portavoz en la Sesión 3.
 
