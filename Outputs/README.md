@@ -21,7 +21,7 @@ Esta carpeta contiene las **figuras generadas por el análisis** (gráficas expo
 
 ## 🔗 Cómo se relaciona con el resto del repositorio
 
-- **`Code/`** → scripts que generan cada una de estas figuras.
+- **`Scripts/`** → códigos que generan cada una de estas figuras.
 - **`RawData/`** → datos crudos usados como insumo.
 - **`Informe/`** → informe donde se interpreta y referencia cada figura.
 - **`Presentación/`** → resumen visual de estos resultados para el briefing.
