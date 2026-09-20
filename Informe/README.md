@@ -21,7 +21,7 @@ Esta carpeta contiene la **entrega escrita** del Taller 6: consultoría experime
 
 ## 🔗 Cómo se relaciona con el resto del repositorio
 
-- **`Code/`** → scripts que generan las tablas y figuras citadas en el informe (revisa ahí para reproducir cada resultado).
+- **`Scripts/`** → códigos que generan las tablas y figuras citadas en el informe (revisa ahí para reproducir cada resultado).
 - **`RawData/`** → datos crudos usados como insumo del análisis.
 - **`Outputs/`** → tablas y figuras exportadas.
 - **`Presentación/`** → material de apoyo para el briefing (Sesión 3).
