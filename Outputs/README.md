@@ -28,4 +28,4 @@ Esta carpeta contiene las **figuras generadas por el análisis** (gráficas expo
 
 ---
 
-> 💡 *Cada figura corresponde 1 a 1 con una sección del `Informe/` — revisa el nombre del archivo para ubicar rápidamente la parte del taller que sustenta.*
+> 💡 *Cada figura corresponde 1 a 1 con una sección del `Informe/`.*
