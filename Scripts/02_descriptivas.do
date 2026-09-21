@@ -103,7 +103,3 @@ preserve
     list, noobs
     export delimited using "$tablas/T3_clase_por_ronda.csv", replace
 restore
-    format media_contrib sd_contrib %9.3f
-    list, noobs
-    export delimited using "$tablas/T3_clase_por_ronda.csv", replace
-restore
