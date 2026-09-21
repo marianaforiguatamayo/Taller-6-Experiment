@@ -53,23 +53,21 @@ TALLER_6_ACUEDUCTOS_VEREDALES/
 
 ## Contribuciones individuales
 
-> Cada integrante debe registrar entre 2 y 4 contribuciones concretas vinculadas a su rol, señalando el do-file, tabla, figura o sección donde se pueden verificar.
+**David Pascagaza Rodriguez — Líder de proyecto**
 
-**_David Pascagaza Rodriguez — Líder de proyecto_**
-- Contribución 1 → ver `Script/taller6_bienes_publicos.do`, línea(s) __
-- Contribución 2 → ver `Informe/informe_taller6.docx`, sección __
+David coordinó la organización general del taller, distribuyendo las preguntas de las Partes 2.1, 2.2 y 2.3 entre el equipo y verificando que cada entrega cumpliera con la estructura y los criterios pedidos por el profesor. Se encargó puntualmente del desarrollo de la Parte 2.3 (P2.3.1–P2.3.5), incluyendo la interpretación de las pruebas t de diferencia de medias en los Períodos 1 y 10, la discusión sobre las condiciones necesarias para sostener un vínculo causal entre el castigo y el cambio de comportamiento, y la redacción de las limitaciones del experimento junto con la evidencia adicional que el equipo consultor recomendó solicitar a la ONG antes de trasladar estos resultados al diseño del proyecto de acueducto veredal. Esto puede verificarse en `Informe/informe_taller6.docx`, sección Parte 2.3, y en los comandos correspondientes a las pruebas t dentro de `Script/taller6_bienes_publicos.do`.
 
-**_Sara Rodriguez Moreno — Analista cuantitativo_**
-- Contribución 1 → ver ...
-- Contribución 2 → ver ...
+**Sara Rodriguez Moreno — Analista cuantitativo**
 
-**_Mariana Forigua Tamayo — Especialista en visualización y comunicación_**
-- Contribución 1 → ver ...
-- Contribución 2 → ver ...
+Sara desarrolló los cálculos estadísticos que soportan las Partes 2.2 y 2.3 del taller: las contribuciones promedio por período para ambos experimentos, las desviaciones estándar de los Períodos 1 y 10, los valores máximo y mínimo, y la tabla resumen de estadísticas descriptivas (media, varianza, desviación estándar, mínimo, máximo y rango). También ejecutó las pruebas t de diferencia de medias en Stata que permiten evaluar si las diferencias observadas entre los experimentos con y sin castigo son estadísticamente significativas o atribuibles al azar. Su trabajo puede verificarse en las secciones de cálculo de `Script/taller6_bienes_publicos.do` y en las tablas de estadísticas descriptivas presentadas en `Informe/informe_taller6.docx`, Parte 2.2.
 
-**_Santiago Cortes Gomez — Especialista en reproducibilidad y datos_**
-- Contribución 1 → ver ...
-- Contribución 2 → ver ...
+**Mariana Forigua Tamayo — Especialista en visualización y comunicación**
+
+Mariana construyó las visualizaciones que ilustran los hallazgos del taller: el gráfico de líneas de contribución promedio por período del juego jugado en clase (Parte 2.1), su comparación visual con la Figura 3 de Herrmann et al. (2008), el gráfico de líneas con ambos experimentos (con y sin castigo) claramente etiquetados en la leyenda, y el gráfico de columnas comparando el primer y último período de cada experimento (Parte 2.2). Además, se encargó de dar coherencia visual y narrativa al informe y a la presentación del briefing para la Sesión 3. Esto puede verificarse en las figuras generadas por `Script/taller6_bienes_publicos.do` y en `Informe/informe_taller6.docx`, Partes 2.1 y 2.2, así como en `Presentacion/taller6_briefing.pptx`.
+
+**Santiago Cortes Gomez — Especialista en reproducibilidad y datos**
+
+Santiago estructuró el do-file para que todo el análisis fuera reproducible de principio a fin, centralizando la carga y limpieza de los datos de las Figuras 2A y 3 de Herrmann et al. (2008), documentando cada paso del procesamiento y verificando que ningún resultado dependiera de edición manual de las bases. También validó que las tablas y figuras exportadas coincidieran con las citadas en el informe, y organizó la estructura de carpetas del repositorio (`Script/`, `Informe/`, `Presentacion/`) siguiendo las convenciones vistas en clase. Esto puede verificarse en la sección de configuración inicial y en los comandos de carga de datos de `Script/taller6_bienes_publicos.do`, así como en la organización general del repositorio.
 
 ## Referencias
 
