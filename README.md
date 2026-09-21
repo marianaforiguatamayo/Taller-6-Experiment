@@ -31,6 +31,8 @@ TALLER_6_ACUEDUCTOS_VEREDALES/
 │   └── taller6_bienes_publicos.do      # Do-file(s) con todo el análisis (Stata)
 ├── Informe/
 │   └── informe_taller6.docx            # Entrega escrita — respuestas a P2.1–P2.3
+├── Code/
+│   └── Codigo 1,2,3                    # Codigos que permiten la reproductividad del proyecto
 ├── Presentacion/
 │   └── taller6_briefing.pptx           # Material de apoyo para el briefing (Sesión 3)
 └── README.md
@@ -59,7 +61,7 @@ David coordinó la organización general del taller, distribuyendo las preguntas
 
 **Sara Rodriguez Moreno — Analista cuantitativo**
 
-Sara desarrolló los cálculos estadísticos que soportan las Partes 2.2 y 2.3 del taller: las contribuciones promedio por período para ambos experimentos, las desviaciones estándar de los Períodos 1 y 10, los valores máximo y mínimo, y la tabla resumen de estadísticas descriptivas (media, varianza, desviación estándar, mínimo, máximo y rango). También ejecutó las pruebas t de diferencia de medias en Stata que permiten evaluar si las diferencias observadas entre los experimentos con y sin castigo son estadísticamente significativas o atribuibles al azar. Su trabajo puede verificarse en las secciones de cálculo de `Scripts/` y en las tablas de estadísticas descriptivas presentadas en `Informe/informe_taller6.docx`, Parte 2.2.
+Sara desarrolló los cálculos estadísticos que soportan la parte 2.3 del taller: las contribuciones promedio por período para ambos experimentos, las desviaciones estándar de los Períodos 1 y 10, los valores máximo y mínimo, y la tabla resumen de estadísticas descriptivas (media, varianza, desviación estándar, mínimo, máximo y rango). También ejecutó las pruebas t de diferencia de medias en Stata que permiten evaluar si las diferencias observadas entre los experimentos con y sin castigo son estadísticamente significativas o atribuibles al azar. Su trabajo puede verificarse en las secciones de cálculo de `Scripts/` y en las tablas de estadísticas descriptivas presentadas en `Informe/informe_taller6.docx`, Parte 2.3.
 
 **Mariana Forigua Tamayo — Especialista en visualización y comunicación**
 
