@@ -32,7 +32,7 @@ TALLER_6_ACUEDUCTOS_VEREDALES/
 ├── Informe/
 │   └── informe_taller6.docx            # Entrega escrita — respuestas a P2.1–P2.3
 ├── Code/
-│   └── Codigo 1,2,3                    # Codigos que permiten la reproductividad del proyecto
+│   └── Codigo 1,2,3, 0.1 import, 0.2 descriptivas, 0.3 inferencia         # Codigos que permiten la reproductividad del proyecto, correr en ese orden.
 ├── Presentacion/
 │   └── taller6_briefing.pptx           # Material de apoyo para el briefing (Sesión 3)
 └── README.md
