@@ -28,4 +28,4 @@ Esta carpeta contiene la **entrega escrita** del Taller 6: consultoría experime
 
 ---
 
-> 💡 *Para reproducir cualquier resultado del informe, parte siempre desde `Code/` y sigue la trazabilidad hacia `RawData/` y `Outputs/`.*
+> 💡 *Para reproducir cualquier resultado del informe, parte siempre desde `Scripts/` y sigue la trazabilidad hacia `RawData/` y `Outputs/`.*
